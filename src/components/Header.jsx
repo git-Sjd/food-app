@@ -10,7 +10,7 @@ function Header() {
             <div className='w-6 h-6 ml-6'>
                 <img src={img} alt="logo1" />
             </div>
-            <div className='cursor-pointer' onClick={{ '/About'}}>
+            <div className='cursor-pointer' onClick={{}}>
                 About Us
             </div>
             <div>
